@@ -1,0 +1,442 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35131561756134,
+          48.86964089786882
+        ]
+      },
+      "properties": {
+        "name": "39.io",
+        "address": "39, rue Beauregard\n75002 Paris",
+        "url": "http://39.io/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3510849475860596,
+          48.86229033197776
+        ]
+      },
+      "properties": {
+        "name": "AntiCafé Beaubourg",
+        "address": "79 rue Quincampoix\n75003 Paris",
+        "url": "http://anticafe.eu/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.336166501045227,
+          48.86422776785835
+        ]
+      },
+      "properties": {
+        "name": "AntiCafé Louvre",
+        "address": "10 rue de Richelieu\n75001 Paris",
+        "url": "http://anticafe.eu/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.367076277732849,
+          48.82551424255817
+        ]
+      },
+      "properties": {
+        "name": "AntiCafé Olympiades",
+        "address": "59 rue Nationale\n75013 Paris",
+        "url": "http://anticafe.eu/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3526406288146973,
+          48.896919944493874
+        ]
+      },
+      "properties": {
+        "name": "Citizen Box",
+        "address": "146 rue des Poissonniers\n75018 Paris",
+        "url": "http://www.citizenbox.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3907655477523804,
+          48.9027350568927
+        ]
+      },
+      "properties": {
+        "name": "Cosyworking",
+        "address": "35 avenue Jean Jaurès\n93300 Aubervilliers",
+        "url": "http://www.cosyworking.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3534077405929565,
+          48.86820474639022
+        ]
+      },
+      "properties": {
+        "name": "Créatis",
+        "description": "Résidence d’entrepreneurs culturels (espace co-working).",
+        "address": "131 bd Sébastopol\n75003 Paris",
+        "url": "http://www.residencecreatis.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357291579246521,
+          48.872200815047016
+        ]
+      },
+      "properties": {
+        "name": "Dev Floor",
+        "description": "Espace dédié aux freelances et startups.",
+        "address": "71 rue du Faubourg Saint-Martin\n75010 Paris",
+        "url": "http://devfloor.numa.paris/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.363375,
+          48.866656
+        ]
+      },
+      "properties": {
+        "name": "Dojocrea République",
+        "address": "24 rue Béranger\n75003 Paris",
+        "url": "http://dojocrea.fr/coworking/paris-republique/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357189,
+          48.868748
+        ]
+      },
+      "properties": {
+        "name": "Dojocrea Saint-Martin",
+        "address": "41 boulevard Saint-Martin\n75010 Paris",
+        "url": "http://dojocrea.fr/coworking/paris-saint-martin/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.380093038082123,
+          48.86436363258758
+        ]
+      },
+      "properties": {
+        "name": "DojoCrea Saint-Maur",
+        "address": "77 avenue de la République\n75011 Paris",
+        "url": "http://dojocrea.fr/coworking/paris-saint-maur/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3346590995788574,
+          48.826277081335206
+        ]
+      },
+      "properties": {
+        "name": "e-malaya coworking",
+        "address": "33 rue des Artistes\n75014 Paris",
+        "url": "http://www.coworking-paris.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.372676730155945,
+          48.858337589036516
+        ]
+      },
+      "properties": {
+        "name": "GreenSpace",
+        "address": "28 rue du Chemin Vert\n75011 Paris",
+        "url": "http://www.greenspace-paris.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3744523525238037,
+          48.84892739323892
+        ]
+      },
+      "properties": {
+        "name": "La Cordée",
+        "address": "61 rue Traversière\n75012 Paris",
+        "url": "http://www.la-cordee.net/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3719418048858643,
+          48.87979158428683
+        ]
+      },
+      "properties": {
+        "name": "La Mutinerie",
+        "address": "29 rue de Meaux\n75019 Paris",
+        "url": "http://www.mutinerie.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3395568132400513,
+          48.87288708346748
+        ]
+      },
+      "properties": {
+        "name": "La Poussinade",
+        "address": "10 rue Chauchat\n75009 Paris",
+        "url": "http://www.la-poussinade.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3649439215660095,
+          48.87241604677306
+        ]
+      },
+      "properties": {
+        "name": "La Ruche",
+        "address": "84 quai de Jemmapes\n75010 Paris",
+        "url": "http://la-ruche.net/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.371598482131958,
+          48.874153744415565
+        ]
+      },
+      "properties": {
+        "name": "LAWOMATIC Coworking",
+        "address": "20 rue Jean et Marie Moinon\n75010 Paris",
+        "url": "http://www.lawomatic.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.390749454498291,
+          48.87740669327498
+        ]
+      },
+      "properties": {
+        "name": "Le Laptop",
+        "address": "6 rue Arthur Rozier \n75019 Paris",
+        "url": "http://www.lelaptop.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3437517881393433,
+          48.86410072518043
+        ]
+      },
+      "properties": {
+        "name": "Le Loft 50 Partners",
+        "address": "62 rue Jean-Jacques Rousseau\n75001 Paris",
+        "url": "http://www.leloft50partners.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3750380000000177,
+          48.855053
+        ]
+      },
+      "properties": {
+        "name": "Le Tank",
+        "address": "22 bis rue des Taillandiers\n75011 Paris",
+        "url": "http://letank.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3323416709899902,
+          48.87491584251396
+        ]
+      },
+      "properties": {
+        "name": "MOZAÏK Chaussée d'Antin",
+        "address": "39-41 rue de la Chaussée d’Antin\n75009 Paris",
+        "url": "http://www.mozaik-coworking.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3468041419982906,
+          48.875822582997536
+        ]
+      },
+      "properties": {
+        "name": "MOZAÏK Rue Bleue",
+        "address": "9 rue Bleue\n75009 Paris",
+        "url": "http://www.mozaik-coworking.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3589330911636353,
+          48.865741668283285
+        ]
+      },
+      "properties": {
+        "name": "Remix Coworking Fontaines du Temple",
+        "address": "12 rue des Fontaines du Temple\n75003 Paris",
+        "url": "http://www.remixcoworking.com/remix-coworking-fontaines-du-temple-paris\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.351524829864502,
+          48.87238252713889
+        ]
+      },
+      "properties": {
+        "name": "Remix Coworking Petites Écuries",
+        "address": "24 cour des Petites Écuries\n75010 Paris",
+        "url": "http://www.remixcoworking.com/remix-coworking-cour-des-petites-ecuries-paris\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3565083742141724,
+          48.8656605046205
+        ]
+      },
+      "properties": {
+        "name": "Remix Coworking Turbigo",
+        "address": "57 rue de Turbigo\n75003 Paris",
+        "url": "http://www.remixcoworking.com/remix-coworking-turbigo-paris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3395782709121704,
+          48.868134172773445
+        ]
+      },
+      "properties": {
+        "name": "Soleilles Cowork",
+        "address": "13 rue Vivienne\n75002 Paris",
+        "url": "http://soleillescowork.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.392095923423767,
+          48.879311792865195
+        ]
+      },
+      "properties": {
+        "name": "VOLUMES",
+        "address": "78 rue Compans\n75019 Paris",
+        "url": "http://volumesparis.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333212,
+          48.879033
+        ]
+      },
+      "properties": {
+        "name": "Work In' Paris",
+        "address": "20 Rue Jean-Baptiste Pigalle\n75009 Paris",
+        "url": "http://workinparis.com/"
+      }
+    }
+  ]
+}
