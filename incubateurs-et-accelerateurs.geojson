@@ -12,7 +12,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "EFREI entrepreneurs",
         "address": "33 bis impasse Victor Hugo",
         "zipcode": "94800",
@@ -31,7 +31,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "104factory",
         "description": "L'incubateur du CENTQUATRE-PARIS.",
         "address": "5 rue Curial",
@@ -51,7 +51,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Agoranov",
         "description": "Incubateur public parisien.",
         "address": "96 bis boulevard Raspail",
@@ -71,7 +71,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Ateliers de Paris",
         "description": "L'incubateur des métiers de création",
         "address": "30 rue du Faubourg Saint-Antoine",
@@ -91,7 +91,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Bond'innov",
         "address": "32 avenue Henri Varagnat",
         "zipcode": "93143",
@@ -110,7 +110,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Bpifrance Le Hub startup",
         "address": "6-8 boulevard Haussmann",
         "zipcode": "75008",
@@ -129,7 +129,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Creatis",
         "description": "Résidence d’entrepreneurs culturels (espace incubation à la Gaîté lyrique).",
         "address": "3 bis rue Papin",
@@ -149,7 +149,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Incub'13",
         "address": "99 avenue Jean-Baptiste Clément",
         "zipcode": "93430",
@@ -168,7 +168,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Incuba'school",
         "address": "8 avenue de la Porte de Champerret",
         "zipcode": "75017",
@@ -187,7 +187,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "IncubAlliance",
         "description": "L'incubateur technologique de Paris Saclay.",
         "address": "86 rue de Paris",
@@ -207,7 +207,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Incubateur académique ESCP-EAP",
         "address": "79 avenue de la République",
         "zipcode": "75011",
@@ -226,7 +226,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Incubateur de l'École Centrale Paris",
         "address": "Grande Voie des Vignes",
         "city": "Châtenay-Malabry",
@@ -245,7 +245,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Incubateur de Sciences-Po",
         "address": "27 rue Saint-Guillaume",
         "zipcode": "75007",
@@ -264,7 +264,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Incubateur Descartes",
         "address": "23 rue Alfred Nobel",
         "zipcode": "77420",
@@ -283,7 +283,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Incubateur ESSEC Ventures",
         "address": "Avenue Bernard Hirsch",
         "zipcode": "95021",
@@ -302,7 +302,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Incubateur HEC",
         "address": "1 rue de la Libération",
         "city": "Jouy-en-Josas",
@@ -321,7 +321,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Incubateur Institut de la Vision",
         "address": "17 rue Moreau",
         "zipcode": "75012",
@@ -340,7 +340,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Incubateur ParisTech Entrepreneurs",
         "address": "9 rue Dareau",
         "zipcode": "75014",
@@ -359,7 +359,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Institut du Cerveau et de la Moelle épinière",
         "description": "Hôpital Pitié Salpêtrière.*\n\n",
         "address": "47 bd de l'hôpital",
@@ -379,7 +379,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Institut Pasteur",
         "address": "28 rue du Docteur Roux",
         "zipcode": "75015",
@@ -398,7 +398,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Labo de l'édition",
         "address": "2 rue Saint-Médard",
         "zipcode": "75005",
@@ -417,7 +417,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Microsoft Ventures Accelerator",
         "address": "6 rue du Sentier",
         "zipcode": "75002",
@@ -436,7 +436,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "NUMA",
         "address": "39 rue du Caire",
         "zipcode": "75002",
@@ -455,7 +455,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Numeric Lab d'Enghien-les-Bains",
         "description": "Centre des Arts d'Enghien-les-Bains",
         "address": "12-16 rue de la Libération",
@@ -475,7 +475,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Paris Biotech Santé",
         "address": "24 rue du Faubourg Saint-Jacques",
         "zipcode": "75014",
@@ -494,7 +494,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Paris Innovation Belleville",
         "address": "24 rue de l'Est",
         "city": "Paris",
@@ -513,7 +513,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "Paris Pionnières",
         "address": "26 rue du Chemin Vert",
         "zipcode": "75011",
@@ -532,7 +532,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "TELECOM & Management SudParis Entrepreneurs",
         "description": "Site d'Évry",
         "address": "9 rue Charles Fourier",
@@ -552,7 +552,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "marker-color": "#47EDFF",
+        "marker-color": "#3997FF",
         "name": "TELECOM & Management SudParis Entrepreneurs",
         "description": "Site d'Arcueil",
         "address": "44 rue Cauchy",
