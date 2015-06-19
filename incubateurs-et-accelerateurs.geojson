@@ -1,0 +1,565 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3637771606445312,
+          48.79035455868981
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "EFREI entrepreneurs",
+        "address": "33 bis impasse Victor Hugo",
+        "zipcode": "94800",
+        "city": "Villejuif",
+        "website": "http://www.efreientrepreneurs.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3714590072631836,
+          48.88994726542142
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "104factory",
+        "description": "L'incubateur du CENTQUATRE-PARIS.",
+        "address": "5 rue Curial",
+        "zipcode": "75019",
+        "city": "Paris",
+        "website": "http://www.104factory.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32831,
+          48.845723
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Agoranov",
+        "description": "Incubateur public parisien.",
+        "address": "96 bis boulevard Raspail",
+        "zipcode": "75006",
+        "city": "Paris",
+        "website": "http://www.agoranov.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37171,
+          48.852458
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Ateliers de Paris",
+        "description": "L'incubateur des métiers de création",
+        "address": "30 rue du Faubourg Saint-Antoine",
+        "zipcode": "75012",
+        "city": "Paris",
+        "website": "http://ateliersdeparis.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.485683560371399,
+          48.9144126079845
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Bond'innov",
+        "address": "32 avenue Henri Varagnat",
+        "zipcode": "93143",
+        "city": "Bondy",
+        "website": "http://www.bondinnov.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338747,
+          48.872316
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Bpifrance Le Hub startup",
+        "address": "6-8 boulevard Haussmann",
+        "zipcode": "75008",
+        "city": "Paris",
+        "website": "http://www.bpifrance-lehubstartup.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3535901308059692,
+          48.866786197586464
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Creatis",
+        "description": "Résidence d’entrepreneurs culturels (espace incubation à la Gaîté lyrique).",
+        "address": "3 bis rue Papin",
+        "zipcode": "75003",
+        "city": "Paris",
+        "website": "http://www.residencecreatis.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.341450452804565,
+          48.95625589177622
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Incub'13",
+        "address": "99 avenue Jean-Baptiste Clément",
+        "zipcode": "93430",
+        "city": "Villetaneuse",
+        "website": "http://www.univ-paris13.fr/incub13/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.287126,
+          48.886267
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Incuba'school",
+        "address": "8 avenue de la Porte de Champerret",
+        "zipcode": "75017",
+        "city": "Paris",
+        "website": "http://www.incubaschool.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.197096,
+          48.696374
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "IncubAlliance",
+        "description": "L'incubateur technologique de Paris Saclay.",
+        "address": "86 rue de Paris",
+        "zipcode": "91400",
+        "city": "Orsay",
+        "website": "http://www.incuballiance.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38066166639328,
+          48.86425070608528
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Incubateur académique ESCP-EAP",
+        "address": "79 avenue de la République",
+        "zipcode": "75011",
+        "city": "Paris",
+        "website": "http://escpeap.entrecreateurs.fr/index.php?id=68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.286648,
+          48.7644
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Incubateur de l'École Centrale Paris",
+        "address": "Grande Voie des Vignes",
+        "city": "Châtenay-Malabry",
+        "zipcode": "92295",
+        "website": "http://www.ecp.fr/home/Entreprises/Incubateur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.328493,
+          48.854155
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Incubateur de Sciences-Po",
+        "address": "27 rue Saint-Guillaume",
+        "zipcode": "75007",
+        "city": "Paris",
+        "website": "http://www.sciences-po.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.590477466583252,
+          48.83789481062498
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Incubateur Descartes",
+        "address": "23 rue Alfred Nobel",
+        "zipcode": "77420",
+        "city": "Champs-sur-Marne",
+        "website": "http://incubateur-descartes.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.078519,
+          49.033029
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Incubateur ESSEC Ventures",
+        "address": "Avenue Bernard Hirsch",
+        "zipcode": "95021",
+        "city": "Cergy-Pontoise",
+        "website": "http://www.essec.fr/lessec/essec-ventures/incubateurs/incubateurs.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.160471,
+          48.765478
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Incubateur HEC",
+        "address": "1 rue de la Libération",
+        "city": "Jouy-en-Josas",
+        "zipcode": "78000",
+        "website": "http://www.hec.fr/incubateur-hec/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3728,
+          48.850076
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Incubateur Institut de la Vision",
+        "address": "17 rue Moreau",
+        "zipcode": "75012",
+        "city": "Paris",
+        "website": "http://www.incubateur-vision.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3383040000000004,
+          48.831488
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Incubateur ParisTech Entrepreneurs",
+        "address": "9 rue Dareau",
+        "zipcode": "75014",
+        "city": "Paris",
+        "website": "http://entrepreneurs.telecom-paristech.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.364259958267212,
+          48.83540552399001
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Institut du Cerveau et de la Moelle épinière",
+        "description": "Hôpital Pitié Salpêtrière.*\n\n",
+        "address": "47 bd de l'hôpital",
+        "zipcode": "75013",
+        "city": "Paris",
+        "website": "http://icm-institute.org/menu/developpement/licmunecosystemedinnovation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.310848,
+          48.840457
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Institut Pasteur",
+        "address": "28 rue du Docteur Roux",
+        "zipcode": "75015",
+        "city": "Paris",
+        "website": "http://www.pasteur.fr/fr/relations-industrielles/entrepreneuriat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.351455,
+          48.843538
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Labo de l'édition",
+        "address": "2 rue Saint-Médard",
+        "zipcode": "75005",
+        "city": "Paris",
+        "website": "http://www.parisincubateurs.com/nos-incubateurs/labo-de-ledition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.345576,
+          48.868233
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Microsoft Ventures Accelerator",
+        "address": "6 rue du Sentier",
+        "zipcode": "75002",
+        "city": "Paris",
+        "website": "https://www.microsoftventures.com/locations/paris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.349631,
+          48.867746000000004
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "NUMA",
+        "address": "39 rue du Caire",
+        "zipcode": "75002",
+        "city": "Paris",
+        "website": "http://accelerate.numa.paris/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.305428385734558,
+          48.97225236156045
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Numeric Lab d'Enghien-les-Bains",
+        "description": "Centre des Arts d'Enghien-les-Bains",
+        "address": "12-16 rue de la Libération",
+        "zipcode": "95880",
+        "city": "Enghien-les-Bains",
+        "website": "http://www.cda95.fr/fr/offre-du-cda/numeric-lab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338602,
+          48.837429
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Paris Biotech Santé",
+        "address": "24 rue du Faubourg Saint-Jacques",
+        "zipcode": "75014",
+        "city": "Paris",
+        "website": "http://www.parisbiotech.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.393226,
+          48.871043
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Paris Innovation Belleville",
+        "address": "24 rue de l'Est",
+        "city": "Paris",
+        "zipcode": "75020",
+        "website": "http://incubateurs.parisandco.com/sites_incubateur/get_site/25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37254798412323,
+          48.85829170715186
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "Paris Pionnières",
+        "address": "26 rue du Chemin Vert",
+        "zipcode": "75011",
+        "city": "Paris",
+        "website": "http://www.parispionnieres.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.445713,
+          48.624023
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "TELECOM & Management SudParis Entrepreneurs",
+        "description": "Site d'Évry",
+        "address": "9 rue Charles Fourier",
+        "zipcode": "91000",
+        "city": "Évry",
+        "website": "http://incubateur.telecom-sudparis.eu/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3347020149230957,
+          48.80464821984971
+        ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "marker-color": "#47EDFF",
+        "name": "TELECOM & Management SudParis Entrepreneurs",
+        "description": "Site d'Arcueil",
+        "address": "44 rue Cauchy",
+        "zipcode": "94110",
+        "city": "Arcueil",
+        "website": "http://incubateur.telecom-sudparis.eu/"
+      }
+    }
+  ]
+}
