@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "39.io",
         "address": "39, rue Beauregard\n75002 Paris",
@@ -28,7 +28,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "AntiCafé Beaubourg",
         "address": "79 rue Quincampoix\n75003 Paris",
@@ -45,7 +45,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "AntiCafé Louvre",
         "address": "10 rue de Richelieu\n75001 Paris",
@@ -62,7 +62,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "AntiCafé Olympiades",
         "address": "59 rue Nationale\n75013 Paris",
@@ -79,7 +79,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "Citizen Box",
         "address": "146 rue des Poissonniers\n75018 Paris",
@@ -96,7 +96,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "Cosyworking",
         "address": "35 avenue Jean Jaurès\n93300 Aubervilliers",
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "Créatis",
         "description": "Résidence d’entrepreneurs culturels (espace co-working).",
@@ -131,7 +131,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "Dev Floor",
         "description": "Espace dédié aux freelances et startups.",
@@ -149,7 +149,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "Dojocrea République",
         "address": "24 rue Béranger\n75003 Paris",
@@ -166,7 +166,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "Dojocrea Saint-Martin",
         "address": "41 boulevard Saint-Martin\n75010 Paris",
@@ -183,7 +183,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "DojoCrea Saint-Maur",
         "address": "77 avenue de la République\n75011 Paris",
@@ -200,7 +200,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "e-malaya coworking",
         "address": "33 rue des Artistes\n75014 Paris",
@@ -217,7 +217,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "GreenSpace",
         "address": "28 rue du Chemin Vert\n75011 Paris",
@@ -234,7 +234,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "La Cordée",
         "address": "61 rue Traversière\n75012 Paris",
@@ -251,7 +251,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "La Mutinerie",
         "address": "29 rue de Meaux\n75019 Paris",
@@ -268,7 +268,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "La Poussinade",
         "address": "10 rue Chauchat\n75009 Paris",
@@ -285,7 +285,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "La Ruche",
         "address": "84 quai de Jemmapes\n75010 Paris",
@@ -302,7 +302,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "LAWOMATIC Coworking",
         "address": "20 rue Jean et Marie Moinon\n75010 Paris",
@@ -319,7 +319,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "Le Laptop",
         "address": "6 rue Arthur Rozier \n75019 Paris",
@@ -336,7 +336,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "Le Loft 50 Partners",
         "address": "62 rue Jean-Jacques Rousseau\n75001 Paris",
@@ -353,7 +353,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "Le Tank",
         "address": "22 bis rue des Taillandiers\n75011 Paris",
@@ -370,7 +370,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "MOZAÏK Chaussée d'Antin",
         "address": "39-41 rue de la Chaussée d’Antin\n75009 Paris",
@@ -387,7 +387,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "MOZAÏK Rue Bleue",
         "address": "9 rue Bleue\n75009 Paris",
@@ -404,7 +404,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "Remix Coworking Fontaines du Temple",
         "address": "12 rue des Fontaines du Temple\n75003 Paris",
@@ -421,7 +421,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "Remix Coworking Petites Écuries",
         "address": "24 cour des Petites Écuries\n75010 Paris",
@@ -438,7 +438,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "Remix Coworking Turbigo",
         "address": "57 rue de Turbigo\n75003 Paris",
@@ -455,7 +455,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "Soleilles Cowork",
         "address": "13 rue Vivienne\n75002 Paris",
@@ -472,7 +472,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "VOLUMES",
         "address": "78 rue Compans\n75019 Paris",
@@ -489,7 +489,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "commercial",
+        "marker-symbol": "building",
         "marker-color": "#FFCD40",
         "name": "Work In' Paris",
         "address": "20 Rue Jean-Baptiste Pigalle\n75009 Paris",
