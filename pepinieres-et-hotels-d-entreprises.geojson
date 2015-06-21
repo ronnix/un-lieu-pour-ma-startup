@@ -14,7 +14,9 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Aéropole Pépinière d’entreprises",
-        "description": "Zone Roissypôle – Bâtiment Aéronef\n5 rue de Copenhague – B.P. 13918\n95731 ROISSY CDG Cedex"
+        "address": "Zone Roissypôle — Bâtiment Aéronef\n5 rue de Copenhague\nB.P. 13918",
+        "zipcode": "95731",
+        "city": "ROISSY CDG Cedex"
       }
     },
     {
@@ -29,8 +31,11 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Apis Développement – Pépinière de Courtaboeuf",
-        "description": "Parc d'Activités de Courtaboeuf\n10 Avenue du Québec — BP 116\n91944 Courtaboeuf Cedex\n\nhttp://www.apisdeveloppement.com/"
+        "name": "Apis Développement — Pépinière de Courtaboeuf",
+        "address": "Parc d'Activités de Courtaboeuf\n10 Avenue du Québec\nBP 116",
+        "zipcode": "91944",
+        "city": "Courtaboeuf Cedex",
+        "website": "http://www.apisdeveloppement.com/"
       }
     },
     {
@@ -46,7 +51,11 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Bio & D",
-        "description": "*Santé et Sciences du vivant.*\n\nCentre Commercial Créteil l’Echat\nPlace de l'Europe\n94000 Créteil\n\nhttp://www.plainedopportunites.fr/fr/en-plaine-ebullition/nos-pepinieres-dentreprises/bio-et-d.html"
+        "description": "Santé et Sciences du vivant.",
+        "address": "Centre Commercial Créteil l’Echat\nPlace de l'Europe",
+        "zipcode": "94000",
+        "city": "Créteil",
+        "website": "http://www.plainedopportunites.fr/fr/en-plaine-ebullition/nos-pepinieres-dentreprises/bio-et-d.html"
       }
     },
     {
@@ -62,7 +71,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "BIOCITECH",
-        "description": "102 route de Noisy\n93230 Romainville\n\nhttp://www.biocitech.com/"
+        "address": "102 route de Noisy",
+        "zipcode": "93230",
+        "city": "Romainville",
+        "website": "http://www.biocitech.com/"
       }
     },
     {
@@ -77,8 +89,12 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "CITEC – Pépinière de Créteil",
-        "description": "*Activités innovantes et éco-activités.*\n\n1 allée des Rochers\n94000 Créteil\n\nhttp://www.plainedopportunites.fr/fr/en-plaine-ebullition/nos-pepinieres-dentreprises/citec.html"
+        "name": "CITEC — Pépinière de Créteil",
+        "description": "Activités innovantes et éco-activités.",
+        "address": "1 allée des Rochers",
+        "zipcode": "94000",
+        "city": "Créteil",
+        "website": "http://www.plainedopportunites.fr/fr/en-plaine-ebullition/nos-pepinieres-dentreprises/citec.html"
       }
     },
     {
@@ -93,8 +109,11 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Confluence Entreprises – Pépinière de Conflans",
-        "description": "13 rue du Clos d'en Haut\n78700 Conflans-Sainte-Honorine\n\nhttp://depauw.eu/index.php/hebergement/les-pepinieres-d-entreprises\n"
+        "name": "Confluence Entreprises — Pépinière de Conflans",
+        "address": "13 rue du Clos d'en Haut",
+        "zipcode": "78700",
+        "city": "Conflans-Sainte-Honorine",
+        "website": "http://depauw.eu/index.php/hebergement/les-pepinieres-d-entreprises"
       }
     },
     {
@@ -110,7 +129,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Cyber Pépinière d'Issy",
-        "description": "2 place Jules Gévelot\n92130 Issy-les-Moulineaux\n\nhttp://www.pepiniere-issy.com/"
+        "address": "2 place Jules Gévelot",
+        "zipcode": "92130",
+        "city": "Issy-les-Moulineaux",
+        "website": "http://www.pepiniere-issy.com/"
       }
     },
     {
@@ -125,8 +147,11 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Espace 22 – Pépinière de Rosny-sous-Bois",
-        "description": "ZAC de Nanteuil\n5 rue de Rome\n93110 Rosny-sous-Bois\n\nhttp://www.rosny93.fr/Votre-Espace-22"
+        "name": "Espace 22 — Pépinière de Rosny-sous-Bois",
+        "address": "ZAC de Nanteuil\n5 rue de Rome",
+        "zipcode": "93110",
+        "city": "Rosny-sous-Bois",
+        "website": "http://www.rosny93.fr/Votre-Espace-22"
       }
     },
     {
@@ -141,8 +166,11 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Espace Arnold de Ville – Pépinière de Louveciennes",
-        "description": "12 rue Georges Blandon\n78430 Louveciennes\n\nhttp://www.pepiniere-adv.com/"
+        "name": "Espace Arnold de Ville — Pépinière de Louveciennes",
+        "address": "12 rue Georges Blandon",
+        "zipcode": "78430",
+        "city": "Louveciennes",
+        "website": "http://www.pepiniere-adv.com/"
       }
     },
     {
@@ -157,8 +185,11 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Espace des entrepreneurs – Pépinière de Montesson",
-        "description": "5 rue du Chant des Oiseaux\n78360 Montesson\n\nhttp://www.semper.fr/L-Espace-des-entrepreneurs_a82.html\n"
+        "name": "Espace des entrepreneurs — Pépinière de Montesson",
+        "address": "5 rue du Chant des Oiseaux",
+        "zipcode": "78360",
+        "city": "Montesson",
+        "website": "http://www.semper.fr/L-Espace-des-entrepreneurs_a82.html"
       }
     },
     {
@@ -173,8 +204,11 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Espace Descartes – Pépinière de Limeil-Brévannes",
-        "description": "22 avenue Descartes\n94450 Limeil-Brévannes\n\nhttp://www.plainedopportunites.fr/fr/en-plaine-ebullition/nos-pepinieres-dentreprises/descartes.html"
+        "name": "Espace Descartes — Pépinière de Limeil-Brévannes",
+        "address": "22 avenue Descartes",
+        "zipcode": "94450",
+        "city": "Limeil-Brévannes",
+        "website": "http://www.plainedopportunites.fr/fr/en-plaine-ebullition/nos-pepinieres-dentreprises/descartes.html"
       }
     },
     {
@@ -190,7 +224,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Espace Inneos",
-        "description": "1401 avenue de la Grande Halle\n78200 Buchelay\n\nhttp://www.inneos.fr/"
+        "address": "1401 avenue de la Grande Halle",
+        "zipcode": "78200",
+        "city": "Buchelay",
+        "website": "http://www.inneos.fr/"
       }
     },
     {
@@ -205,8 +242,11 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Espace Prévôté – Pépinière de Houdan",
-        "description": "6 rue de la Prévôté\n78550 Houdan\n\nhttp://cc-payshoudanais.fr/espace_prevote_accueil.php"
+        "name": "Espace Prévôté — Pépinière de Houdan",
+        "address": "6 rue de la Prévôté",
+        "zipcode": "78550",
+        "city": "Houdan",
+        "website": "http://cc-payshoudanais.fr/espace_prevote_accueil.php"
       }
     },
     {
@@ -222,7 +262,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Hôtel d'activités d'Aulnay-sous-bois",
-        "description": "1 à 3 Rue Maryse Bastie - Bâtiments A & B\n93600 Aulnay-sous-bois\n\nhttp://www.semad-93.com/index.php/locaux/l-hotel-d-activites"
+        "address": "1 à 3 Rue Maryse Bastie - Bâtiments A & B",
+        "zipcode": "93600",
+        "city": "Aulnay-sous-bois",
+        "website": "http://www.semad-93.com/index.php/locaux/l-hotel-d-activites"
       }
     },
     {
@@ -238,7 +281,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Hôtel d'entreprises de Franconville",
-        "description": "38 rue de la station\n95130 Franconville\n\nhttp://www.accet.asso.fr/v1/nos-sites/hotels-d-entreprise/franconville.html"
+        "address": "38 rue de la station",
+        "zipcode": "95130",
+        "city": "Franconville",
+        "website": "http://www.accet.asso.fr/v1/nos-sites/hotels-d-entreprise/franconville.html"
       }
     },
     {
@@ -253,8 +299,12 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Le Magellan – Évry",
-        "description": "*Pépinière et hôtel d'entreprises de l'agglomération Évry Centre Essonne.*\n\n7 rue Montespan\n91024 Évry Cedex\n\nhttp://www.lemagellan.com/"
+        "name": "Le Magellan — Évry",
+        "description": "Pépinière et hôtel d'entreprises de l'agglomération Évry Centre Essonne.",
+        "address": "7 rue Montespan",
+        "zipcode": "91024",
+        "city": "Évry Cedex",
+        "website": "http://www.lemagellan.com/"
       }
     },
     {
@@ -270,7 +320,11 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "LUTESS",
-        "description": "*Un pôle dédié aux structures de l’économie sociale et solidaire.*\n\n204 rue de Crimée\n75019 Paris\n\nhttp://www.paris.fr/pro/entrepreneurs/economie-sociale-et-solidaire/lutess-un-pole-dedie-aux-structures-de-l-ess-du-204-rue-de-crimee/rub_10368_stand_136821_port_26273"
+        "description": "Un pôle dédié aux structures de l’économie sociale et solidaire.",
+        "address": "204 rue de Crimée",
+        "zipcode": "75019",
+        "city": "Paris",
+        "website": "http://www.paris.fr/pro/entrepreneurs/economie-sociale-et-solidaire/lutess-un-pole-dedie-aux-structures-de-l-ess-du-204-rue-de-crimee/rub_10368_stand_136821_port_26273"
       }
     },
     {
@@ -285,8 +339,12 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Neuvitec 95 – Cergy-Pontoise",
-        "description": "*Incubateur et pépinière d’entreprises innovantes.*\n\n1 mail Gay Lussac\n95450 Neuville-sur-Oise\n\nhttp://www.accet.asso.fr/v1/nos-sites/pepinieres-d-entreprises/neuvitec-95.html"
+        "name": "Neuvitec 95 — Cergy-Pontoise",
+        "description": "Incubateur et pépinière d’entreprises innovantes.",
+        "address": "1 mail Gay Lussac",
+        "zipcode": "95450",
+        "city": "Neuville-sur-Oise",
+        "website": "http://www.accet.asso.fr/v1/nos-sites/pepinieres-d-entreprises/neuvitec-95.html"
       }
     },
     {
@@ -302,7 +360,6 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Paris Incubateurs Finance",
-        "description": "5 rue d'Uzès\n75002 Paris",
         "address": "5 rue d'Uzès",
         "zipcode": "75002",
         "city": "Paris",
@@ -322,7 +379,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Paris Innovation Biopark",
-        "description": "10 rue Jean Antoine de Baïf\n75013 Paris\n\nhttp://www.paris.fr/pro/2d3es-hebergement-d-entreprises/poles-d-entreprises/rub_9529_stand_22927_port_23414"
+        "address": "10 rue Jean Antoine de Baïf",
+        "zipcode": "75013",
+        "city": "Paris",
+        "website": "http://www.paris.fr/pro/2d3es-hebergement-d-entreprises/poles-d-entreprises/rub_9529_stand_22927_port_23414"
       }
     },
     {
@@ -338,7 +398,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Paris Innovation Brûlon-Cîteaux",
-        "description": "37 rue de Cîteaux\n75012 Paris\n\nhttp://www.paris.fr/pro/2d3es-hebergement-d-entreprises/poles-d-entreprises/rub_9529_stand_22927_port_23414\n"
+        "address": "37 rue de Cîteaux",
+        "zipcode": "75012",
+        "city": "Paris",
+        "website": "http://www.paris.fr/pro/2d3es-hebergement-d-entreprises/poles-d-entreprises/rub_9529_stand_22927_port_23414"
       }
     },
     {
@@ -354,7 +417,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Paris Innovation Losserand",
-        "description": "168-170 rue Raymond Losserand\n75014 Paris\n\nhttp://www.paris.fr/pro/2d3es-hebergement-d-entreprises/poles-d-entreprises/rub_9529_stand_22927_port_23414"
+        "address": "168-170 rue Raymond Losserand",
+        "zipcode": "75014",
+        "city": "Paris",
+        "website": "http://www.paris.fr/pro/2d3es-hebergement-d-entreprises/poles-d-entreprises/rub_9529_stand_22927_port_23414"
       }
     },
     {
@@ -370,7 +436,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Paris Innovation Masséna",
-        "description": "Immeuble Berlier\n15 rue Jean-Baptiste Berlier\n75013 Paris\n\nhttp://incubateurs.parisandco.com/sites_incubateur/get_site/27"
+        "address": "Immeuble Berlier\n15 rue Jean-Baptiste Berlier",
+        "zipcode": "75013",
+        "city": "Paris",
+        "website": "http://incubateurs.parisandco.com/sites_incubateur/get_site/27"
       }
     },
     {
@@ -386,7 +455,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Paris Innovation Réunion",
-        "description": "80 rue des Haies\n75020 Paris\n\nhttp://incubateurs.parisandco.com/sites_incubateur/get_site/26"
+        "address": "80 rue des Haies",
+        "zipcode": "75020",
+        "city": "Paris",
+        "website": "http://incubateurs.parisandco.com/sites_incubateur/get_site/26"
       }
     },
     {
@@ -402,7 +474,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Paris Région Innovation Nord Express",
-        "description": "110-122 rue des Poissonniers\n75018 Paris\n\nhttp://incubateurs.parisandco.com/sites_incubateur/get_site/30"
+        "address": "110-122 rue des Poissonniers",
+        "zipcode": "75018",
+        "city": "Paris",
+        "website": "http://incubateurs.parisandco.com/sites_incubateur/get_site/30"
       }
     },
     {
@@ -418,7 +493,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière 27",
-        "description": "27-28 rue du Chemin Vert\n75011 Paris\n\nhttp://www.pepiniere27.fr/"
+        "address": "27-28 rue du Chemin Vert",
+        "zipcode": "75011",
+        "city": "Paris",
+        "website": "http://www.pepiniere27.fr/"
       }
     },
     {
@@ -433,8 +511,11 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Pépinière Atrium – Montreuil",
-        "description": "104-112 avenue de la Résistance\n93100 Montreuil\n\nhttp://www.pepiniereatrium.fr/"
+        "name": "Pépinière Atrium — Montreuil",
+        "address": "104-112 avenue de la Résistance",
+        "zipcode": "93100",
+        "city": "Montreuil",
+        "website": "http://www.pepiniereatrium.fr/"
       }
     },
     {
@@ -450,7 +531,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière d'Aulnay-sous-Bois",
-        "description": "Maison de l'Entreprise et de l'Emploi\n1 rue Auguste Renoir\n93600 Aulnay-sous-Bois\n\nhttp://www.semad-93.com/index.php/locaux/la-pepiniere"
+        "address": "Maison de l'Entreprise et de l'Emploi\n1 rue Auguste Renoir",
+        "zipcode": "93600",
+        "city": "Aulnay-sous-Bois",
+        "website": "http://www.semad-93.com/index.php/locaux/la-pepiniere"
       }
     },
     {
@@ -466,7 +550,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière d'Issy",
-        "description": "215 rue Jean-Jacques Rousseau\n92130 Issy-les-Moulineaux\n\nhttp://www.pepiniere-issy.com/\n"
+        "address": "215 rue Jean-Jacques Rousseau",
+        "zipcode": "92130",
+        "city": "Issy-les-Moulineaux",
+        "website": "http://www.pepiniere-issy.com/"
       }
     },
     {
@@ -482,7 +569,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière d'Orsay",
-        "description": "2 rue Jean Rostand\nParc Orsay Université\n91400 Orsay\n\nhttp://www.caps.fr/innover-entreprendre/developpement-economique/les-pepinieres-dentreprises/pepiniere-dorsay/"
+        "address": "2 rue Jean Rostand\nParc Orsay Université",
+        "zipcode": "91400",
+        "city": "Orsay",
+        "website": "http://www.caps.fr/innover-entreprendre/developpement-economique/les-pepinieres-dentreprises/pepiniere-dorsay/"
       }
     },
     {
@@ -498,7 +588,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière de Cergy-Préfecture",
-        "description": "4 place de la Pergola\n95000 Cergy Préfecture\n\nhttp://www.accet.asso.fr/v1/nos-sites/pepinieres-d-entreprises/cergy-prefecture.html"
+        "address": "4 place de la Pergola",
+        "zipcode": "95000",
+        "city": "Cergy Préfecture",
+        "website": "http://www.accet.asso.fr/v1/nos-sites/pepinieres-d-entreprises/cergy-prefecture.html"
       }
     },
     {
@@ -514,7 +607,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière de Fontainebleau",
-        "description": "3 rue Paul Tavernier\n77300 Fontainebleau\n\nhttp://www.fontainebleau-entreprises.fr/"
+        "address": "3 rue Paul Tavernier",
+        "zipcode": "77300",
+        "city": "Fontainebleau",
+        "website": "http://www.fontainebleau-entreprises.fr/"
       }
     },
     {
@@ -530,7 +626,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière de Gif-sur-Yvette",
-        "description": "2 route de la Noue\nBP 76\n91193 Gif-sur-Yvette Cedex\n\nhttp://www.caps.fr/innover-entreprendre/developpement-economique/les-pepinieres-dentreprises/la-pepiniere-de-gif-sur-yvette/"
+        "address": "2 route de la Noue\nBP 76",
+        "zipcode": "91193",
+        "city": "Gif-sur-Yvette Cedex",
+        "website": "http://www.caps.fr/innover-entreprendre/developpement-economique/les-pepinieres-dentreprises/la-pepiniere-de-gif-sur-yvette/"
       }
     },
     {
@@ -545,8 +644,11 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Pépinière de la CAVAM – Montmagny",
-        "description": "26 rue des sablons\n95360 Montmagny\n\nhttp://www.accet.asso.fr/v1/nos-sites/pepinieres-d-entreprises/cavam.html"
+        "name": "Pépinière de la CAVAM — Montmagny",
+        "address": "26 rue des sablons",
+        "zipcode": "95360",
+        "city": "Montmagny",
+        "website": "http://www.accet.asso.fr/v1/nos-sites/pepinieres-d-entreprises/cavam.html"
       }
     },
     {
@@ -562,7 +664,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière de La Courneuve",
-        "description": "1 centre commercial La Tour\n93120 La Courneuve\n\nhttp://pepiniere-la-courneuve.com/"
+        "address": "1 centre commercial La Tour",
+        "zipcode": "93120",
+        "city": "La Courneuve",
+        "website": "http://pepiniere-la-courneuve.com/"
       }
     },
     {
@@ -578,7 +683,11 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière de Marne-la-Vallée",
-        "description": "*Pépinière d'Entreprises Innovantes*\n\nCité Descartes\n1 rue Albert Einstein\n77437 Champs sur Marne\n\nhttp://www.seineetmarne.cci.fr/creation/sinstaller-en-pepiniere"
+        "description": "Pépinière d'Entreprises Innovantes",
+        "address": "Cité Descartes\n1 rue Albert Einstein",
+        "zipcode": "77437",
+        "city": "Champs sur Marne",
+        "website": "http://www.seineetmarne.cci.fr/creation/sinstaller-en-pepiniere"
       }
     },
     {
@@ -594,7 +703,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière de Palaiseau",
-        "description": "7 rue de la Croix Martre\n91873 Palaiseau\n\nhttp://www.caps.fr/innover-entreprendre/developpement-economique/les-pepinieres-dentreprises/pepiniere-palaiseau/"
+        "address": "7 rue de la Croix Martre",
+        "zipcode": "91873",
+        "city": "Palaiseau",
+        "website": "http://www.caps.fr/innover-entreprendre/developpement-economique/les-pepinieres-dentreprises/pepiniere-palaiseau/"
       }
     },
     {
@@ -610,7 +722,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière de Saint-Denis",
-        "description": "Espace entreprises Bel-Air<br>113-115 rue Danielle Casanova<br>93200 Saint-Denis<br>http://www.pepiniere-saint-denis.org/"
+        "address": "Espace entreprises Bel-Air\n113-115 rue Danielle Casanova",
+        "zipcode": "93200",
+        "city": "Saint-Denis",
+        "website": "http://www.pepiniere-saint-denis.org/"
       }
     },
     {
@@ -626,7 +741,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière de Saint-Maur",
-        "description": "Centre d’activités d’Arromanches\n27-31 avenue du Port au Fouarre\n94100 Saint-Maur-des-Fossés\n\nhttp://www.saint-maur.com/La-pepiniere-de-Saint-Maur-des"
+        "address": "Centre d’activités d’Arromanches\n27-31 avenue du Port au Fouarre",
+        "zipcode": "94100",
+        "city": "Saint-Maur-des-Fossés",
+        "website": "http://www.saint-maur.com/La-pepiniere-de-Saint-Maur-des"
       }
     },
     {
@@ -642,7 +760,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière de Sannois",
-        "description": "2 esplanade de la Gare\n95110 Sannois\n\nhttp://www.accet.asso.fr/v1/nos-sites/pepinieres-d-entreprises/sannois.html"
+        "address": "2 esplanade de la Gare",
+        "zipcode": "95110",
+        "city": "Sannois",
+        "website": "http://www.accet.asso.fr/v1/nos-sites/pepinieres-d-entreprises/sannois.html"
       }
     },
     {
@@ -658,7 +779,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière de Sénart",
-        "description": "Bâtiment « Le Sextant »\n462 rue Benjamin Delessert – BP 83\n77552 Moissy-Cramayel Cedex\n\nhttp://www.entreprendre-senart.com/"
+        "address": "Bâtiment « Le Sextant »\n462 rue Benjamin Delessert — BP 83",
+        "zipcode": "77552",
+        "city": "Moissy-Cramayel Cedex",
+        "website": "http://www.entreprendre-senart.com/"
       }
     },
     {
@@ -674,7 +798,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière de Suresnes",
-        "description": "26 avenue Charles de Gaulle\n92150 Suresnes\n\nhttp://www.suresneseco.com/\n"
+        "address": "26 avenue Charles de Gaulle",
+        "zipcode": "92150",
+        "city": "Suresnes",
+        "website": "http://www.suresneseco.com/"
       }
     },
     {
@@ -690,7 +817,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière de Villeneuve-la-Garenne",
-        "description": "11 avenue Marc Sangnier\n92390 Villeneuve-la-Garenne\n\nhttp://www.pep-entreprises-vlg92.fr/"
+        "address": "11 avenue Marc Sangnier",
+        "zipcode": "92390",
+        "city": "Villeneuve-la-Garenne",
+        "website": "http://www.pep-entreprises-vlg92.fr/"
       }
     },
     {
@@ -706,7 +836,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière de Viry-Châtillon",
-        "description": "31 avenue du Général de Gaulle\n91170 Viry-Châtillon\n\nhttp://www.viry-chatillon.fr/fr/index.php/vivre-a-viry/economie/vie-economique/hotels-et-pepinieres-d-entreprise"
+        "address": "31 avenue du Général de Gaulle",
+        "zipcode": "91170",
+        "city": "Viry-Châtillon",
+        "website": "http://www.viry-chatillon.fr/fr/index.php/vivre-a-viry/economie/vie-economique/hotels-et-pepinieres-d-entreprise"
       }
     },
     {
@@ -722,7 +855,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière du Val de Bièvre",
-        "description": "Z.A. La Cerisaie Sud<br>35 chemin de Montjean<br>94260 Fresnes<br><br>http://www.agglo-valdebievre.fr/article/archive/336/"
+        "address": "Z.A. La Cerisaie Sud\n35 chemin de Montjean",
+        "zipcode": "94260",
+        "city": "Fresnes",
+        "website": "http://www.agglo-valdebievre.fr/article/archive/336/"
       }
     },
     {
@@ -738,7 +874,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière et hôtel d'activités de Montrouge",
-        "description": "2A rue Danton\n92120 Montrouge\n\nhttp://www.pepiniere-hotelactivites-montrouge.com/\n"
+        "address": "2A rue Danton",
+        "zipcode": "92120",
+        "city": "Montrouge",
+        "website": "http://www.pepiniere-hotelactivites-montrouge.com/"
       }
     },
     {
@@ -754,7 +893,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière Genopole Entreprises",
-        "description": "4 rue Pierre Fontaine<br>91000 Évry<br>http://www.genopole.fr/html/fr/entreprendre/pepinieres.htm"
+        "address": "4 rue Pierre Fontaine",
+        "zipcode": "91000",
+        "city": "Évry",
+        "website": "http://www.genopole.fr/html/fr/entreprendre/pepinieres.htm"
       }
     },
     {
@@ -769,8 +911,11 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Pépinière Isaac Newton – Les Mureaux",
-        "description": "2 rue Louis Blériot\n78130 Les Mureaux\n\nhttp://www.lesmureaux.fr/index.php/S_implanter,%20se%20développer?idpage=10023&idmetacontenu=83112"
+        "name": "Pépinière Isaac Newton — Les Mureaux",
+        "address": "2 rue Louis Blériot",
+        "zipcode": "78130",
+        "city": "Les Mureaux",
+        "website": "http://www.lesmureaux.fr/index.php/S_implanter,%20se%20développer?idpage=10023&idmetacontenu=83112"
       }
     },
     {
@@ -786,7 +931,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière la Boétie",
-        "description": "55 rue la Boétie\n75008 Paris\n\nhttp://www.levillagebyca.com/la-pepiniere-la-boetie\n"
+        "address": "55 rue la Boétie",
+        "zipcode": "75008",
+        "city": "Paris",
+        "website": "http://www.levillagebyca.com/la-pepiniere-la-boetie"
       }
     },
     {
@@ -802,7 +950,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière Paris République",
-        "description": "18 rue Yves Toudic\n75010 Paris\n\nhttp://www.entreprises.cci-paris-idf.fr/web/hebergement-d-entreprises/paris-10eme"
+        "address": "18 rue Yves Toudic",
+        "zipcode": "75010",
+        "city": "Paris",
+        "website": "http://www.entreprises.cci-paris-idf.fr/web/hebergement-d-entreprises/paris-10eme"
       }
     },
     {
@@ -818,7 +969,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière Paris Santé Cochin",
-        "description": "27 rue du Faubourg Saint-Jacques\n75014 Paris\n\nhttp://www.parisbiotechsante.org/"
+        "address": "27 rue du Faubourg Saint-Jacques",
+        "zipcode": "75014",
+        "city": "Paris",
+        "website": "http://www.parisbiotechsante.org/"
       }
     },
     {
@@ -834,7 +988,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière Paris Soleillet",
-        "description": "14 rue Soleillet\n75020 Paris\n\nhttp://www.entreprises.cci-paris-idf.fr/web/hebergement-d-entreprises/paris-20eme"
+        "address": "14 rue Soleillet",
+        "zipcode": "75020",
+        "city": "Paris",
+        "website": "http://www.entreprises.cci-paris-idf.fr/web/hebergement-d-entreprises/paris-20eme"
       }
     },
     {
@@ -849,8 +1006,11 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Pépinière Val & Forêt – Le Plessis-Bouchard",
-        "description": "156 chaussée Jules César\n95310 Le Plessis-Bouchard\n\nhttp://www.accet.asso.fr/v1/nos-sites/pepinieres-d-entreprises/val-foret.html"
+        "name": "Pépinière Val & Forêt — Le Plessis-Bouchard",
+        "address": "156 chaussée Jules César",
+        "zipcode": "95310",
+        "city": "Le Plessis-Bouchard",
+        "website": "http://www.accet.asso.fr/v1/nos-sites/pepinieres-d-entreprises/val-foret.html"
       }
     },
     {
@@ -866,7 +1026,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière Versailles Grand Parc",
-        "description": "2 place de Touraine\n78000 Versailles\n\nhttp://www.pepiniere.versaillesgrandparc.fr"
+        "address": "2 place de Touraine",
+        "zipcode": "78000",
+        "city": "Versailles",
+        "website": "http://www.pepiniere.versaillesgrandparc.fr"
       }
     },
     {
@@ -882,7 +1045,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinière X-Technologies",
-        "description": "X-Technologies<br>École Polytechnique ParisTech<br>91128 Palaiseau Cedex<br>http://www.xtec.polytechnique.fr/"
+        "address": "X-Technologies\nÉcole Polytechnique ParisTech",
+        "zipcode": "91128",
+        "city": "Palaiseau Cedex",
+        "website": "http://www.xtec.polytechnique.fr/"
       }
     },
     {
@@ -898,7 +1064,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Pépinières Espace Cristal & Espace Média",
-        "description": "22 rue Gustave Eiffel – Technoparc<br>78300 Poissy<br>http://www.technoparc-poissy.com/"
+        "address": "22 rue Gustave Eiffel — Technoparc",
+        "zipcode": "78300",
+        "city": "Poissy",
+        "website": "http://www.technoparc-poissy.com/"
       }
     },
     {
@@ -914,7 +1083,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Promopole Merisiers Trappes-en-Yvelines",
-        "description": "Rue Eugène Pottier\n78190 Trappes\n\nhttp://www.promopole.fr/"
+        "address": "Rue Eugène Pottier",
+        "zipcode": "78190",
+        "city": "Trappes",
+        "website": "http://www.promopole.fr/"
       }
     },
     {
@@ -930,7 +1102,10 @@
         "marker-symbol": "building",
         "marker-color": "#14CE21",
         "name": "Promopole Montigny-le-Bretonneux",
-        "description": "12 avenue des Prés\n78180 Montigny-le-Bretonneux\n\nhttp://www.promopole.fr/\n"
+        "address": "12 avenue des Prés",
+        "zipcode": "78180",
+        "city": "Montigny-le-Bretonneux",
+        "website": "http://www.promopole.fr/"
       }
     },
     {
@@ -945,8 +1120,12 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Quai des entrepreneurs – Port de Paris-Gennevilliers",
-        "description": "*Pépinière d’Entreprises du Port de Paris-Gennevilliers.*\n\n60 route Principale du Port\n92230 Gennevilliers\n\nhttp://www.quai-des-entrepreneurs.com/"
+        "name": "Quai des entrepreneurs — Port de Paris-Gennevilliers",
+        "description": "Pépinière d’Entreprises du Port de Paris-Gennevilliers.",
+        "address": "60 route Principale du Port",
+        "zipcode": "92230",
+        "city": "Gennevilliers",
+        "website": "http://www.quai-des-entrepreneurs.com/"
       }
     },
     {
@@ -961,8 +1140,10 @@
       "properties": {
         "marker-symbol": "building",
         "marker-color": "#14CE21",
-        "name": "Silver Innov’ Plateforme Charles Foix Seine-­Amont",
-        "description": "54 rue Molière\n94200 Ivry-sur-Seine"
+        "name": "Silver Innov’ Plateforme Charles Foix Seine-Amont",
+        "address": "54 rue Molière",
+        "zipcode": "94200",
+        "city": "Ivry-sur-Seine"
       }
     }
   ]
